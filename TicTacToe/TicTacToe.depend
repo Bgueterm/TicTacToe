@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1536253042 source:/home/user/TicTacToe/main.cpp
+	<iostream>
+	"tictactoe.cpp"
+
+1536260494 /home/user/TicTacToe/tictactoe.cpp
+	<iostream>
+
